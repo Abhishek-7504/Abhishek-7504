@@ -3,7 +3,7 @@
 
 I am intrigued by the endless possibilities technology gives us. 
 
-I am extremely interested to work on tech stacks such as Machine Learning, Large Language Models, Gen AI, App Dev 
+I am extremely interested to work on tech stacks such as Machine Learning, Large Language Models, & Gen AI.
 
 ### 🛠️ Developer Tools
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
