@@ -25,7 +25,7 @@ I am intrigued by the endless possibilities technology gives us. I am a passiona
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Databases
-![SQL](https://shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+[![SQL](https://shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
 
 ### Developer Tools
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
