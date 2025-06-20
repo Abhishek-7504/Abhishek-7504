@@ -7,7 +7,6 @@ I am intrigued by the endless possibilities technology gives us. I am a passiona
 - I'm collaborating with a team to develop [SmartMeet AI](https://github.com/Kiranraj077/SmartMeet/) - a Chrome extension to summarise meetings, generate person specific tasks and action tickets. 
 - Ask me about LLMs, Machine Learning and Crew AI.
 - Open to opportunites and collaborations: [abhi752004@gmail.com](mailto:abhi752004@gmail.com) 
-- Fun fact: I'm interested in every tech stack!
 
 ### Skills
 
