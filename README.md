@@ -1,6 +1,9 @@
 ## Hi there 👋, welcome to my GitHub !
 ### I am Abhishek, 3rd Year Undergrad pursuing Information Science.
 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-7504&label=Profile%20views&color=0e75b6&style=flat) -->
+
+
 I am intrigued by the endless possibilities technology gives us. I am a passionate developer with interests in **Machine Learning**, **Large Language Models (LLMs)**, **Web Development** and **AI Agents**.
 
 - I’m currently working on my data structures and algorithms.
@@ -15,13 +18,14 @@ I am intrigued by the endless possibilities technology gives us. I am a passiona
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 ### Databases
 [![MySQL](https://shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Frontend Frameworks
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### ML and Data Science Libraries
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
