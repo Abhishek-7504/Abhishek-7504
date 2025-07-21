@@ -1,7 +1,10 @@
 ## Hi there 👋, welcome to my GitHub !
 ### I am Abhishek, 3rd Year Undergrad pursuing Information Science.
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-7504&label=Profile%20views&color=0e75b6&style=flat) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-7504&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=Abhishek-7504&color=green)
+![](https://komarev.com/ghpvc/?username=Abhishe-7504&style=flat-square&color=orange)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Abhishek-7504.Abhishek-7504) -->
 
 
 I am intrigued by the endless possibilities technology gives us. I am a passionate developer with interests in **Machine Learning**, **Large Language Models (LLMs)**, **Web Development** and **AI Agents**.
