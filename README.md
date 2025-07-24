@@ -1,5 +1,5 @@
 ## Hi there 👋, welcome to my GitHub !
-### I am Abhishek, 3rd Year Undergrad pursuing Information Science.
+### I am Abhishek, Final Year Undergrad pursuing Information Science.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-7504&label=Profile%20views&color=0e75b6&style=flat)
 <!-- ![](https://komarev.com/ghpvc/?username=Abhishek-7504&color=green)
